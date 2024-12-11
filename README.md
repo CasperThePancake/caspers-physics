@@ -13,14 +13,14 @@ A ball that acts to interact with an environment made up of rectangles. These re
 To exert forces on the ball, use ZQSD (sorry to my inferior QWERTY users).
 
 The project is pre-loaded with a test map. To edit the map, use the following keys:
-SPACE - Toggle editor mode
-Arrow keys - Modify width and height of rectangle
-RSHIFT - Rotate the rectangle
-Left-click - Place the rectangle
-R - Remove the last-placed rectangle
-G - Toggle gravity
-F - Freeze the ball (set all velocity to zero)
-TAB - Get stage save code (printed to terminal)
+- SPACE: Toggle editor mode
+- Arrow keys: Modify width and height of rectangle
+- RSHIFT: Rotate the rectangle
+- Left-click: Place the rectangle
+- R: Remove the last-placed rectangle
+- G: Toggle gravity
+- F: Freeze the ball (set all velocity to zero)
+- TAB: Get stage save code (printed to terminal)
 
 To load a level using a correct save code, paste it in the saveCode part of the code (replace the current default level code). The level will automatically be loaded when rebooting the simulation.
 
